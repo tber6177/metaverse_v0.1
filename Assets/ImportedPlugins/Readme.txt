@@ -1,0 +1,1 @@
+This directory contains all the assets imported via asset store. Some are paid, others are free. All required attribution.
